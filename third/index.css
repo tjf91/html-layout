@@ -1,0 +1,47 @@
+body{
+    height: 100vh;
+    display: grid;
+    grid-auto-rows: 1fr 3fr 1fr 1fr 1fr;
+}
+div{ 
+    
+}
+.row1{
+    background-color: grey;
+    display: flex;
+    align-items: flex-end;
+
+}
+.bluesquare {
+    width: 80px;
+    height: 80px;
+    margin: 15px;
+    background-color: blue;
+
+}
+.row2{
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    
+}
+.rowtext{
+    height: 80%;
+    width: 90%;
+    font-size: 40px;
+    
+    
+}
+.row25 {
+    background-color: blue;
+}
+.row3{
+    background-color: green;
+}
+.row4{
+    background-color: tan;
+}
+.row5{
+    background-color: yellow;
+}
