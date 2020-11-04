@@ -7,7 +7,7 @@ div{
     
 }
 .row1{
-    background-color: grey;
+    background-color: #d8d8d8;
     display: flex;
     align-items: flex-end;
 
@@ -16,7 +16,7 @@ div{
     width: 80px;
     height: 80px;
     margin: 15px;
-    background-color: blue;
+    background-color: #4a90e2;
 
 }
 .row2{
@@ -34,14 +34,14 @@ div{
     
 }
 .row25 {
-    background-color: blue;
+    background-color: #4a90e2;
 }
 .row3{
-    background-color: green;
+    background-color: #50e3c2;
 }
 .row4{
-    background-color: tan;
+    background-color: #b8e986;
 }
 .row5{
-    background-color: yellow;
+    background-color: #f8e71c;
 }
